@@ -2,23 +2,21 @@
   "name": "maha-lap",
   "version": "1.0.0",
   "description": "",
-  "main": "maha-lap.js",
-  "dependencies": {
-    "init": "^0.1.2",
-    "jest": "^24.9.0"
-  },
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pomelooooooo/maha-lap.git"
+    "url": "git+https://github.com/mekpongsathon/maha-lap.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pomelooooooo/maha-lap/issues"
+    "url": "https://github.com/mekpongsathon/maha-lap/issues"
   },
-  "homepage": "https://github.com/pomelooooooo/maha-lap#readme"
+  "homepage": "https://github.com/mekpongsathon/maha-lap#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
